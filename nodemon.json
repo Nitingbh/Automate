@@ -1,0 +1,6 @@
+{
+  "watch": [".", ".env.local"],
+  "ext": "js,ts,json",
+  "ignore": ["public/**", "node_modules/**", "dist/**"],
+  "exec": "node src/app.js"
+}
